@@ -1,0 +1,132 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+
+*/
+/* 
+    Created on : 31 mai 2018, 12:00:11
+    Author     : Félix
+*/
+body{
+    font-family: arvo;
+    background-color:#89F8F3;+   
+}
+
+
+
+image{
+    border-color: black
+}
+
+#dropper
+{opacity: 0.8;
+ 
+
+
+}
+.epaule
+   { width: 40px;
+    height: 40px;
+    position:relative;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+background-color: gray;
+    
+     bottom:430px;
+    left: 680px;
+}
+
+.coude
+{width: 40px;
+    height: 40px;
+    position:relative;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+ background-color: gray;
+    left: 780px;
+    bottom:370px;
+}
+
+.poigne
+{width: 40px;
+    height: 40px;
+    position:relative;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+background-color: gray;
+     bottom:350px;
+    left: 670px;
+    
+}
+
+.kouisse
+{width: 40px;
+    height: 40px;
+    position:relative;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+background-color: gray;
+    
+     bottom:350px;
+    left: 750px;
+    
+}
+
+.genoux
+{width: 40px;
+    height: 40px;
+    position:relative;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+background-color: gray;
+    
+     bottom:315px;
+    left: 700px;
+    
+}
+
+.cheville
+{width: 40px;
+    height: 40px;
+    position:relative;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+background-color: gray;
+    
+     bottom:268px;
+    left: 745px;
+    
+}
+
+.genoux:hover {
+    background-color:red;
+}
+.cheville:hover {
+    background-color:red;
+}
+.kouisse:hover {
+    background-color:red;
+}
+.poigne:hover {
+    background-color:red;
+}
+.coude:hover {
+    background-color:red;
+}
+.epaule:hover {
+    background-color:red;
+}
+
+figcaption {
+	width: 350px;
+        display:table-cell;
+        position:relative;
+        bottom:300px;
+}
